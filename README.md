@@ -3,10 +3,11 @@
  
  Welcome TO server Minecraft Indonesia 
  
+
  
 ## Authors
 
-- [SansKu Official](https://github.com/)
+- [SansKu Official](https://github.com/faruk875)
 
  
   
@@ -16,30 +17,21 @@
   Add Addon to Your World SansKu
 ```
     
-![Logo](https://i.ytimg.com/vi/64kYH32vVVY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxJIDIu-7dzzvaVdvPmeDarmX2Vg)
-
     
 ## Support
 
- - [Website :](https://sansku-official.bogspot.com)
- - [Youtube :](https://www.youtube.com/channel/UCLpKWPFvyedyEh8_aNhzpOA)
- - [facebook :](https://facebook.com)
- - []()
+ - [Website](https://sansku-official.bogspot.com)
+ - [Youtube](https://www.youtube.com/channel/UCLpKWPFvyedyEh8_aNhzpOA)
+ - [facebook](https://facebook.com/faruk-abdul-jabar)
+ - [github](https://github.com/faruk875)
   
 ## Lisensi
 
 [PACK Lisensi](License.md)
 
-## Bahasa / language
-
- - indonesia
- - indonesian
-
 # informasi server
 
 informasi Server SansKu Official
-
-[Website :](https://sansku-official.blogspot.com/)
 
 ## Rules
 
@@ -62,3 +54,47 @@ informasi Server SansKu Official
  - command MC
  - gamemode menu
  - PvP
+ - Help command
+ - clear item danger / berbahaya
+
+
+## link copy / salin
+
+ - Website :
+```bash
+   https://sansku-official.bogspot.com
+```
+
+ - youtube :
+ ```bash
+   https://www.youtube.com/channel/UCLpKWPFvyedyEh8_aNhzpOA
+```
+
+## Bahasa / language
+
+ - indonesia
+ - indonesian
+ - inggris
+ - english
+
+## info file
+
+ - Don't copy this file
+
+ - Jangan salin file ini
+
+ - Don't change this file
+
+ - Jangan mengubah file ini
+
+## Penutupan
+
+ - Dah Segitu aja info nya
+
+ - Dah sampai nanti di SansKu S2
+
+ - Code SansKu
+  ```bash
+   GV67ANF0
+```
+ - untuk login ke SansKu 
